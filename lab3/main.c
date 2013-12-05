@@ -1,5 +1,5 @@
-#include "spolks_lib/sockets.c"
-#include "spolks_lib/utils.c"
+#include "../spolks_lib/sockets.c"
+#include "../spolks_lib/utils.c"
 
 #include <sys/types.h>
 #include <signal.h>
